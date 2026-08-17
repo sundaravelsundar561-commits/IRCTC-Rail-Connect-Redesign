@@ -73,7 +73,7 @@ The redesign provides a clearer information hierarchy, simplified navigation, im
 
 [View Full Case Study](https://www.behance.net/gallery/253573235/IRCTC-Rail-Connect-App-Redesign)
 
-[View Interactive Figma Prototype](https://www.figma.com/design/AcvnjO6oNeme6AYuc8WpXb/Guvi-Course?node-id=0-1&t=Jx4PtWK5XWERmK1h-1)
+[View Interactive Figma Prototype](https://www.figma.com/proto/AcvnjO6oNeme6AYuc8WpXb/Guvi-Course?node-id=621-2566&t=JdJML0vLkVwKn0yO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=621%3A2554&show-proto-sidebar=1)
 
 ## Tools
 
