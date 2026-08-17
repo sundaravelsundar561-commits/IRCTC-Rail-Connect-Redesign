@@ -77,7 +77,7 @@ The redesign provides a clearer information hierarchy, simplified navigation, im
 
 ## UI Design
 
-[<div align="center">
+<div align="center">
 
 <img src="./Irctc%20Screen%201.png" width="180">
 <img src="./Irctc%20Screen%2016%20%284%29.png" width="180">
@@ -91,7 +91,7 @@ The redesign provides a clearer information hierarchy, simplified navigation, im
 <img src="./Irctc%20Screen%2042%20%281%29.png" width="180">
 <img src="./Irctc%20Screen%2056%20%281%29.png" width="180">
 
-</div>]
+</div>
 
 
 ## Tools
