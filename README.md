@@ -75,6 +75,25 @@ The redesign provides a clearer information hierarchy, simplified navigation, im
 
 [View Interactive Figma Prototype](https://www.figma.com/proto/AcvnjO6oNeme6AYuc8WpXb/Guvi-Course?node-id=621-2566&t=JdJML0vLkVwKn0yO-1&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=621%3A2554&show-proto-sidebar=1)
 
+## UI Design
+
+[<div align="center">
+
+<img src="./Irctc%20Screen%201.png" width="180">
+<img src="./Irctc%20Screen%2016%20%284%29.png" width="180">
+<img src="./Irctc%20Screen%2027.png" width="180">
+<img src="./Irctc%20Screen%2034.png" width="180">
+
+<br>
+
+<img src="./Irctc%20Screen%2035%20%281%29.png" width="180">
+<img src="./Irctc%20Screen%2037%20%281%29.png" width="180">
+<img src="./Irctc%20Screen%2042%20%281%29.png" width="180">
+<img src="./Irctc%20Screen%2056%20%281%29.png" width="180">
+
+</div>]
+
+
 ## Tools
 
 - Figma
